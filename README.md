@@ -44,6 +44,7 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+
  
 
 
@@ -53,6 +54,8 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
+
+$$ V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega} $$
  
 
 
